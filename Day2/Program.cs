@@ -155,7 +155,7 @@ namespace Day2
             {
                 if (str[i] != str[str.Length-1-i])
                 {
-                    Console.WriteLine("Не палиндром.");
+                    Console.WriteLine("Не палиндром!");
                     flag = false;
                     break;
                 } 
